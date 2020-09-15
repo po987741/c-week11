@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600137339 source:c:\users\student3\desktop\c004\week11\if01.c
+	<stdio.h>
+
+1600137397 source:c:\users\student3\desktop\c004\week11\ifelse02.c
+	<stdio.h>
+
+1600137820 source:c:\users\student3\desktop\c004\week11\ifelse03.c
+	<stdio.h>
+
+1600138281 source:c:\users\student3\desktop\c004\week11\lab1101.c
+	"brock.h"
+
+1600138263 c:\users\student3\desktop\c004\week11\brock.h
+
